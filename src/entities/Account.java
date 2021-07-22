@@ -44,16 +44,8 @@ public class Account {
 		return saldo;
 	}
 
-	public void setSaldo(Double saldo) {
-		this.saldo = saldo;
-	}
-
 	public Double getLimiteDeSaque() {
 		return limiteDeSaque;
-	}
-
-	public void setLimiteDeSaque(Double limiteDeSaque) {
-		this.limiteDeSaque = limiteDeSaque;
 	}
 	
 	//metd
